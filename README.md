@@ -11,7 +11,9 @@ atcoder_checksamples.pyを取得し、同じフォルダ内にsettingを作成�
 arc000
 ```
 Beginer:abc
+
 Regular:arc
+
 Grand  :agc
 
 settingが完成したらatcoder_checksamples.pyを実行。
