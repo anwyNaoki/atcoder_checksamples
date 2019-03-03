@@ -7,14 +7,10 @@ AtCoderのサンプルをまとめてテスト出来るだけのツールです�
 ## Usage
 atcoder_checksamples.pyを取得し、同じフォルダ内にsettingを作成。
 開催されるコンテストの名前と番号に合わせたデータを入力。
-``` Python:setting.txt
+```:setting.txt
 arc000
 ```
-Beginer:abc
-
-Regular:arc
-
-Grand  :agc
+Beginer:abc,Regular:arc,Grand  :agc
 
 settingが完成したらatcoder_checksamples.pyを実行。
 ```
