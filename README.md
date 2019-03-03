@@ -9,6 +9,7 @@ atcoder_checksamples.pyを取得し、同じフォルダ内にsettingを作成�
 開催されるコンテストの名前と番号に合わせたデータを入力。
 
 ```:setting
+#setting
 arc000
 ```
 Beginer:abc,Regular:arc,Grand  :agc
