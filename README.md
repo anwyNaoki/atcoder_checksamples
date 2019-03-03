@@ -6,4 +6,4 @@ AtCoderのサンプルをまとめてテスト出来るだけのツールです�
 
 ## Usage
 [verse]
-'ghq' python atcoder atcoder_checksamples.py a hoge.exe #a問題をhoge.pyでテスト
+  python atcoder atcoder_checksamples.py a hoge.exe #a問題をhoge.pyでテスト
