@@ -14,10 +14,11 @@ arc000
 ```
 Beginer:abc,Regular:arc,Grand  :agc
 
-settingが完成したらatcoder_checksamples.pyを実行。
+settingを準備したらatcoder_checksamples.pyを実行。
 ```
 $ python atcoder atcoder_checksamples.py a hoge.exe #a問題をhoge.pyでテスト
 ```
 
-## Requirement
-Python3系
+## Environment
+Python3
+Ubuntu18.04
