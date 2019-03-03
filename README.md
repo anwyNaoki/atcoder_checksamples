@@ -15,7 +15,7 @@ Beginer:abc,Regular:arc,Grand  :agc
 
 settingが完成したらatcoder_checksamples.pyを実行。
 ```
-python atcoder atcoder_checksamples.py a hoge.exe #a問題をhoge.pyでテスト
+$ python atcoder atcoder_checksamples.py a hoge.exe #a問題をhoge.pyでテスト
 ```
 
 ## Requirement
