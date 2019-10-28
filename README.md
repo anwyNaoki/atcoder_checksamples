@@ -12,7 +12,7 @@ atcoder_checksamples.pyを実行する。
 ```
 $ python atcoder atcoder_checksamples.py --c_n abc010 --p_n a --f hoge.py #abc010のa問題をhoge.pyでテスト
 ```
-##コンテストネーム
+## Contest Name
 Beginer:abc,Regular:arc,Grand:agc
 
 ## Environment
